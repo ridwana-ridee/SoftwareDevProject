@@ -2,7 +2,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 
-public class EmployeeService 
+public class EmployeeManager 
 {
 
     public void searchEmployee(String name, String ssn, Integer empID) 
